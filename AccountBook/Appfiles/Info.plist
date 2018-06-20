@@ -33,8 +33,6 @@
 	<string>在更改头像时需要访问相机权限</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>在更改头像时需要访问相册权限</string>
-	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
